@@ -221,8 +221,8 @@ in this business's profitability.
 **Karuna**
 Aspiring Data Analyst | SQL · Python · Excel
 
-📧 [your email]
-🔗 [your LinkedIn URL]
+📧 [Karunakumari0231@gmail.com]
+🔗 [www.linkedin.com/in/karuna-kumari-85463a25a]
 
 ---
 
