@@ -143,7 +143,7 @@ superstore-profitability-analysis/
 ![Sub-Category Profitability](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart1_subcategory_profit.png)
 
 ### Chart 2 — Discount vs Profit Distribution
-![Discount vs Profit](outputs/chart2_discount_vs_profit.png)
+![Discount vs Profit](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart2_discount_vs_profit.png)
 
 ### Chart 3 — Regional Performance
 ![Regional Performance](outputs/chart3_regional_profit.png)
