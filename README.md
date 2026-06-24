@@ -149,7 +149,7 @@ superstore-profitability-analysis/
 ![Regional Performance](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart3_regional_profit.png)
 
 ### Chart 4 — Yearly Sales vs Profit Trend
-![Yearly Trend](outputs/chart4_yearly_trend.png)
+![Yearly Trend](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart4_yearly_trend.png)
 
 ### Chart 5 — Discount Bucket Impact
 ![Discount Bucket](outputs/chart5_discount_bucket.png)
