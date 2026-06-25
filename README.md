@@ -152,7 +152,7 @@ superstore-profitability-analysis/
 ![Yearly Trend](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart4_yearly_trend.png)
 
 ### Chart 5 — Discount Bucket Impact
-![Discount Bucket](outputs/chart5_discount_bucket.png)
+![Discount Bucket](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart5_discount_bucket.png)
 
 ### Chart 6 — Customer Segment Comparison
 ![Segment Comparison](outputs/chart6_segment_comparison.png)
