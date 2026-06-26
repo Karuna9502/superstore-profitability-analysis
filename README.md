@@ -155,7 +155,7 @@ superstore-profitability-analysis/
 ![Discount Bucket](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart5_discount_bucket.png)
 
 ### Chart 6 — Customer Segment Comparison
-![Segment Comparison](outputs/chart6_segment_comparison.png)
+![Segment Comparison](https://github.com/Karuna9502/superstore-profitability-analysis/blob/main/chart6_segment_comparison.png)
 
 ---
 
